@@ -3,7 +3,6 @@
 
 Evidencia 2
 Programación Avanzada
-Conceptos relacionados a BD y Programación
 Lic. en Tecnologías de Información
 Semestre: 2° Grupo: 23
 Maestro: Araujo de Luna Walter Alejandro
